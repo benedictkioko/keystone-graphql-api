@@ -23,11 +23,13 @@ To launch your app, run:
     yarn dev
 ```
 
-Once running the Keystone Admin UI is reachable via: `localhost:3000/admin`.
+Once running the Keystone Admin UI is reachable via: `localhost:4000/admin`.
 
+```
 🔗 Keystone Admin UI: `http://localhost:4000/admin`
 🔗 GraphQL Playground: `http://localhost:4000/admin/graphiql`
 🔗 GraphQL API: `http://localhost:4000/admin/api`
+```
 
 ## Next steps
 
