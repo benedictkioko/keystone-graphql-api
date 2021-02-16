@@ -25,6 +25,10 @@ To launch your app, run:
 
 Once running the Keystone Admin UI is reachable via: `localhost:3000/admin`.
 
+🔗 Keystone Admin UI: `http://localhost:4000/admin`
+🔗 GraphQL Playground: `http://localhost:4000/admin/graphiql`
+🔗 GraphQL API: `http://localhost:4000/admin/api`
+
 ## Next steps
 
-This example has no front-end application but you can build your own using the GraphQL API (`http://localhost:3000/admin/graphiql`).
+This cms has no front-end application but you can build your own using the GraphQL API (`http://localhost:4000/admin/graphiql`).
