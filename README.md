@@ -2,9 +2,7 @@
 
 Headless CMS &amp; GraphQL API with KeystoneJS
 
-This project contains an AdminUI and GraphQL App.
-
-You probably want to add Lists, Authentication, Access control and a front-end application.
+This project contains an AdminUI, GraphQL PlayGround and GraphQL App.
 
 ## Running the Project.
 
