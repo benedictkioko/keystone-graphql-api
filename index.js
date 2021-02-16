@@ -38,6 +38,10 @@ module.exports = {
       name: PROJECT_NAME,
       enableDefaultRoute: true,
       authStrategy,
+      isAccessAllowed: ({ authentication: { item: user } }) => {
+        console.log(user);
+        return !!user & !!user.isAdmin;
+      },
     }),
   ],
 };
