@@ -23,7 +23,7 @@ To launch your app, run:
     yarn dev
 ```
 
-Once running the Keystone Admin UI is reachable via: `localhost:4000/admin`.
+Once running Keystone is reachable via: `http://localhost:4000 🚀`.
 
 ```
 🔗 Keystone Admin UI: `http://localhost:4000/admin`
